@@ -32,7 +32,7 @@ Live Link (https://agriculturedashboard.netlify.app/)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/agriculture-dashboard.git
+git clone https://github.com/Mayank100882/agriculture-dashboard.git
 cd agriculture-dashboard
 npm install
 npm run dev
